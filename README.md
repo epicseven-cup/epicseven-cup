@@ -1,7 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-
-#### Counter I found, don't worry about it
+<h3 align="center"> 
+Counter I found, don't worry about it
+</h3>
 <p align="center">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@aljdflasjdfasfdj?theme=moebooru"></a>
 </p>
