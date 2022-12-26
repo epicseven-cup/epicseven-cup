@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@aljdflasjdfasfdj?theme=gelbooru"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@aljdflasjdfasfdj?theme=moebooru"></a>
 </p>
 <!--
 **epicseven-cup/epicseven-cup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
