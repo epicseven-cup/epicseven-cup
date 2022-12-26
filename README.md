@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-<script src="https://gist.github.com/epicseven-cup/d362377490117259c478fa9b2ce3d33a.js"></script>
-
 <!--
 **epicseven-cup/epicseven-cup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
