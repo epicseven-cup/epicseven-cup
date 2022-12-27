@@ -8,7 +8,7 @@ Counter I found, don't worry about it
 </p>
 
 
-📓[blog](http://www.latitude.moe/)
+### 📓 [blog](http://www.latitude.moe/)
 <!--
 **epicseven-cup/epicseven-cup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
