@@ -8,6 +8,8 @@ Counter I found, don't worry about it
 </p>
 
 
+![Jacky (epicseven-cup)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=epicseven-cup&count_private=true)
+
 ### 📓 [blog](http://www.latitude.moe/)
 <!--
 **epicseven-cup/epicseven-cup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
