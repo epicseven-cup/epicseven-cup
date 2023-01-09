@@ -8,7 +8,7 @@ Counter I found, don't worry about it
 </p>
 
 
-![Jacky (epicseven-cup)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=epicseven-cup&count_private=true)
+![Jacky (epicseven-cup)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=epicseven-cup&count_private=trueshow_icons=true&theme=onedark)
 
 ### 📓 [blog](http://www.latitude.moe/)
 <!--
