@@ -11,7 +11,7 @@ Counter I found, don't worry about it
 ![Jacky (epicseven-cup)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=epicseven-cup&count_private=trueshow_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epicseven-cup)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📓 [blog](http://www.latitude.moe/)
+### 📓 [blog](https://www.latitude.moe/)
 <!--
 **epicseven-cup/epicseven-cup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
