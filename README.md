@@ -8,8 +8,8 @@ Counter I found, don't worry about it
 </p>
 
 
-![Jacky (epicseven-cup)'s GitHub stats]([https://github-readme-stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=epicseven-cup&count_private=trueshow_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epicseven-cup)](https://github.com/anuraghazra/github-readme-stats)
+![Jacky (epicseven-cup)'s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=epicseven-cup&count_private=trueshow_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=epicseven-cup)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Jacky's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=epicseven-cup&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
