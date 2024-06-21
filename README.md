@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-
-Blog is currently down, working on updating framework and making it cooler 😎
 ### 📓 [website](http://latitude.moe/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epicseven-cup&layout=compact)
