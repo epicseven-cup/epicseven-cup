@@ -4,7 +4,14 @@
 
 ### Deployed tools / apps:
 - https://lat.sh
-- https://phantom.winterstorm.dev/  (lat.sh/phantom)
+- https://phantom.winterstorm.dev  (lat.sh/phantom)
+
+### Others for Fun:
+- https://jessesfavoriteta.com/
+
+### Working on:
+- august.guru
+- jellyfish.winterstorm.dev
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epicseven-cup&layout=compact)
 
