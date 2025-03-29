@@ -8,6 +8,7 @@
 
 ### Others for Fun:
 - https://jessesfavoriteta.com/
+- https://misskey.latitude.moe/
 
 ### Working on:
 - august.guru
