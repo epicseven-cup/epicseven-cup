@@ -4,7 +4,7 @@
 
 ### Deployed tools / apps:
 - https://lat.sh
-- https://phantom.winterstorm.dev  (lat.sh/phantom)
+- (down for maintenance) https://phantom.winterstorm.dev
 
 ### Others for Fun:
 - https://jessesfavoriteta.com/
