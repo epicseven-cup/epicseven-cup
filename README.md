@@ -9,6 +9,7 @@
 ### Others for Fun:
 - https://jessesfavoriteta.com/
 - https://misskey.latitude.moe/
+- https://howtoremovebloat.com/
 
 ### Working on:
 - august.guru
