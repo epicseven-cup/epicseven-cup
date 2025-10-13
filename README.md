@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 📓 [website](http://latitude.moe/)
-### [blog](https://www.ppppp.dev/)
+### 🍅 [blog](https://www.ppppp.dev/)
 
 ### Deployed tools / apps:
 - https://lat.sh
