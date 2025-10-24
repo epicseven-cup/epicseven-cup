@@ -10,7 +10,6 @@ I'm migrating cloud providers, so it is going to take a bit a for most of them t
 
 ### Others for Fun:
 - (down for maintenace) https://jessesfavoriteta.com/
-- (offline) https://misskey.latitude.moe/
 - (down for maintenace) https://howtoremovebloat.com/
 
 ### Working on:
