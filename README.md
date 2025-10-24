@@ -3,7 +3,7 @@
 ### 🍅 [blog](https://www.ppppp.dev/)
 
 ### Deployed tools / apps:
-- https://lat.sh
+- (down for maintenace) https://lat.sh
 - (down for maintenance) https://phantom.winterstorm.dev
 
 ### Others for Fun:
