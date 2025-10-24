@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-### 📓 [website](http://latitude.moe/)
 ### 🍅 [blog](https://www.ppppp.dev/)
 
 ### Deployed tools / apps:
