@@ -1,8 +1,12 @@
 ## Hi there 👋
 
+
 ### 🍅 [blog](https://www.ppppp.dev/)
 
 I'm migrating cloud providers, so it is going to take a bit a for most of them to get back on. Life is taking a toll
+
+### Tech Stacks
+• Go • TypeScript • Python • Kubernetes
 
 ### Deployed tools / apps:
 - (down for maintenace) https://lat.sh
