@@ -13,7 +13,6 @@ I'm migrating cloud providers, so it is going to take a bit a for most of them t
 - (down for maintenance) https://phantom.winterstorm.dev
 
 ### Others for Fun:
-- (down for maintenace) https://jessesfavoriteta.com/
 - (down for maintenace) https://howtoremovebloat.com/
 
 ### Working on:
